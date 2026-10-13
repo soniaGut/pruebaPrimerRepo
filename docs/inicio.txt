@@ -2,4 +2,8 @@ Mi primer txt en github
 
 Primer push al remoto
 
+
 Cambio local para producir un conflicto 
+
+Cambio remoto  para producir un conflicto 
+
