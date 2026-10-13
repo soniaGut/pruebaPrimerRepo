@@ -1,0 +1,27 @@
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: lightskyblue
+}
+
+ul.elemento1{
+list-style-type: square;
+}
+ul.elemento2{
+list-style-type: circle;
+}
+
+ol {
+    list-style-type: lower-greek;
+}
+
+.negrita {
+    font-weight: bolder;
+    color: lightblue;
+}
+
+#parrafoPrincipal {
+    background-color: lightblue;
+}
